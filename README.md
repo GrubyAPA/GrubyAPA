@@ -1,4 +1,6 @@
 ## Hi there 👋
+To ja, wasz Gruby.
+Wiecie gdzie mnie szukać i jak się ze mną skontakować
 
 <!--
 **GrubyAPA/GrubyAPA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
